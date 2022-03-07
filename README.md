@@ -1,14 +1,14 @@
-Yesh Hextris
+Parth Hextris
 ==========
 
 
 An addictive puzzle game inspired by Tetris. Play it at https://yeshwanthkm.github.io/Hextris/
 
 By:
-  Yeshwanth KM
+  Parth Mehta
   
 ## License
-Copyright (C) 2018 Yeshwanth KM
+Copyright (C) 2018 Parth Mehta
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
