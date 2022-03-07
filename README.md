@@ -2,7 +2,7 @@ Parth Hextris
 ==========
 
 
-An addictive puzzle game inspired by Tetris. Play it at https://yeshwanthkm.github.io/Hextris/
+An addictive puzzle game inspired by Tetris. Play it at https://pdpn.github.io/Hextris/
 
 By:
   Parth Mehta
